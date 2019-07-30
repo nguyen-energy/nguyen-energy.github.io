@@ -1130,3 +1130,6 @@ ul li.filter{
     margin-bottom: 0px;
     background-color: #606060;
 }
+li{
+    margin: 8px 0;
+}
