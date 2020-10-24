@@ -377,6 +377,15 @@ Button
 /*
 Extra height css
 */
+.no-margin
+{
+  margin: 0px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
 .margin-top-20 {
     margin-top: 20px;
 }
